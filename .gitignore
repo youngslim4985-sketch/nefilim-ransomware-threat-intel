@@ -1,0 +1,24 @@
+# Raw VirusTotal API responses
+report.json
+behaviors.json
+summary.json
+
+# Local investigation notes and backups
+findings.md
+findings-backup.md
+hashes.txt
+
+# Credentials and environment files
+.env
+.env.*
+*.key
+*.pem
+
+# Malware samples
+*.exe
+*.dll
+*.bin
+*.zip
+
+# Temporary files
+temp.json
